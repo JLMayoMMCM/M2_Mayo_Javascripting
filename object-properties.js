@@ -3,3 +3,4 @@ const food = {
     };
 
 console.log(food.types);
+
