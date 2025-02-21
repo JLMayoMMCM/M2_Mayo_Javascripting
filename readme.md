@@ -1,8 +1,8 @@
-M2_Mayo_Javascripting
+# M2_Mayo_Javascripting
 
-Overview
+## Overview
 
-This repository contains JavaScript exercises for M2 Module. it contains all completed exercises
+This repository contains JavaScript exercises for the M2 Module. It contains all completed exercises.
 
 ![alt text](https://github.com/JLMayoMMCM/M2_Mayo_Javascripting/blob/main/Screenshot.png?raw=true)
 
